@@ -4,7 +4,7 @@ This IPL Cricket Data Analysis Dashboard presents key statistics of IPL players 
 
 Key Insights from the Dashboard:
 
-Total Players: 207
+Total Players: 207 
 Total Fours: 13,165
 Total Sixes: 6,105
 Total Centuries: 48
